@@ -13,7 +13,7 @@ All technical information related to the database, its structure, and its specif
 * [Tables.md](/Documentation/Tables.md): Description and justification of all tables, including functional dependencies and normalization level
 * [Indexes.md](/Documentation/Indexes.md): Description and justification of 3 indexes
 * [Views.md](/Documentation/Views.md): Description and justification of views, including relational algebra, SQL implementation, and sample output
-* [Sample Transactions.md](/Documentation/Sample%20Transactions.md): Description and justification of 3 sample transactions, including SQL implementation
+* [Transactions.md](/Documentation/Transactions.md): Description and justification of 3 sample transactions, including SQL implementation
 
 ## User Manual
 

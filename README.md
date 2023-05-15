@@ -28,6 +28,8 @@ All information related to using the database can be found in the [User Manual](
 
 An Eclipse project archive is included in the [UI](/UI) subdirectory which implements a simple user interface for executing common queries, along with a .pdf containing screenshots of texample output. To import project in Eclipse (tested with version 2021-06 (4.20.0)), go to File > Open Projects from File System..., click Archive, select the .zip file from this repository, and click Finish.
 
+The java code used to implement the user interface is included in the [User Interface](/User Interface/DatabaseInterface.java). As well as an [Eclipse zip file](/User Interface/equipment-rental-UI.zip)
+
 ## Database File
 
 [equipment-rental.db](/equipment-rental.db) is a binary version of the database, suitable for opening using SQLiteStudio.

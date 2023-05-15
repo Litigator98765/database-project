@@ -26,7 +26,7 @@ All information related to using the database can be found in the [User Manual](
 
 ## User Interface
 
-The java code used to implement the user interface is included in the [User Interface](/User Interface/DatabaseInterface.java). As well as an [Eclipse zip file](/User Interface/equipment-rental-UI.zip). AS well as a pdf of all [example outputs](/User Interface/Example Output.pdf).
+The java code used to implement the user interface is included in the [User Interface](/User%20Interface/DatabaseInterface.java). As well as an [Eclipse zip file](/User%20Interface/equipment-rental-UI.zip). AS well as a pdf of all [example outputs](/User%20Interface/Example Output.pdf).
 
 ## Database File
 
